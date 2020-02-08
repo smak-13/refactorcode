@@ -1,3 +1,5 @@
+HTML CSS Git: Code Refactor
+
 The objective of this homework is to improve the code provided without creating new functionality that can transform a mess into clean code and simple design.
  
 Some of acceptance criteria to consider are as follow:
