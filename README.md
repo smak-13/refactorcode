@@ -4,9 +4,8 @@ Homework 1 - HTML CSS Git: Code Refactor
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
+
 ## Acceptance Criteria
-```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -24,7 +23,7 @@ The objective of this homework is to improve the existing code provided.
 Below you can find the following changes:
 
 - Replaced Div tags for Sections;
-- Uilization of semantic HTML elemetns such as headers,style,footers and positioning;
+- Uilization of semantic HTML elements such as headers,style,footers and positioning;
 - Alt attributes was added to all images (img);
 - Heading attributes are in sequential order;
 - New webpage title;
